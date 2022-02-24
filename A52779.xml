@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a gentleman touching the treatise entituled, Two hundred queries concerning the doctrine of the revolution of humane souls and its conformity to the truths of Christianity / by a pacifick Christian, a member of the Catholick Church, tho not of the Roman synagogue falsely so called.</title>
+            <author>Pacifick Christian.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52779</idno>
+            <idno type="STC">Wing N42</idno>
+            <idno type="STC">ESTC R24019</idno>
+            <idno type="EEBO-CITATION">07940603</idno>
+            <idno type="OCLC">ocm 07940603</idno>
+            <idno type="VID">40584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1210:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a gentleman touching the treatise entituled, Two hundred queries concerning the doctrine of the revolution of humane souls and its conformity to the truths of Christianity / by a pacifick Christian, a member of the Catholick Church, tho not of the Roman synagogue falsely so called.</title>
+                  <author>Pacifick Christian.</author>
+               </titleStmt>
+               <extent>63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Awnsham Churchill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.N., Philantropos.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40584:1"/>
+            <pb facs="tcp:40584:1" rendition="simple:additions"/>
+            <p>A LETTER TO A GENTLEMAN, Touching the TREATISE Entituled, <hi>Two hundred Queries concerning the Doctrine of the Revolution of Hu<g ref="char:EOLhyphen"/>mane Souls, and its Conformity to the Truths of Chriſtianity.</hi>
+            </p>
+            <p>By a Pacifick Chriſtian, a Member of the Catholick Church, tho' not of the <hi>Roman</hi> Synagogue, falſely ſo called.</p>
+            <q>Let your moderation be known to all men, for the Lord is at hand, <bibl>Philip. 4.5.</bibl>
+            </q>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>LICENSED,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Octob.</hi> 3.1689.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Awnſham Churchill</hi> at the <hi>Black Swan</hi> in <hi>Ave-Mary Lane.</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40584:2"/>
+            <pb n="3" facs="tcp:40584:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HErewith I ſend you, accord<g ref="char:EOLhyphen"/>ing to my Promiſe, an Ab<g ref="char:EOLhyphen"/>ſtract of the Doctrines which I find contained in that won<g ref="char:EOLhyphen"/>derful Book ſtyled <hi>Two hundred Que<g ref="char:EOLhyphen"/>ies concerning the Doctrine of the Revo<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of Humane Souls,</hi> ſo far as I an gueſs at the Author's Sentiments <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m his Queries.</p>
+            <p>I had much rather he had himſelf plainly aſſerted his Judgment, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I might have been tree from all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame in aſſerting theſe Doctrines to be ſo, tho I am in no great pain about it.</p>
+            <p>For it happens oft enough, That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m do by Queſtions as forcibly di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>over their Sentiments, as by any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her way of Writing whatſoever;
+<pb n="4" facs="tcp:40584:3"/>and ſo I conſider this Author to have done.</p>
+            <p>Yet becauſe it is not impoſſible, but in Matters ſo ſtrange and new, I may in ſome things have miſtaken him, I will not be equally poſitive as to every part of it, and only ſay this, That I judge the Author at leaſt ſo far accountable for theſe Principles, as he has given occaſion to a Man ſo impartial as I am to think them his.</p>
+            <p>For ſure I am, I find not the leaſt inclination in the world to ſtretch any of his Words to any other Senſe than they plainly ſeem to bear, and much leſs to aſcribe any Opinion to him out of ill-will, which I do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think to be his.</p>
+            <p>Nor needs what the Author ſays in his Firſt Queſtion, to deter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from looking on them as the Perſuaſion of his preſent Judg<g ref="char:EOLhyphen"/>ment, where he ſaith, <hi>That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth not pretend to the utmoſt Aſſuranc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that every thing therein propoſed is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> infallible Inſpiration of the Holy Ghoſt</hi>
+            </p>
+            <pb n="5" facs="tcp:40584:3"/>
+            <p>Nay, this rather confirms me, that he did look upon ſome of theſe Do<g ref="char:EOLhyphen"/>ctrines at leaſt as ſuch, <hi>altho he will not impoſe them upon any of his Chriſti<g ref="char:EOLhyphen"/>an Brethren, as neceſſary Articles of Faith, that muſt be believed upon pain of Damnation;</hi> of which there is no need, tho they were all ſo: It being moſt certain, that <hi>all</hi> the Inſpirations of the holy Men of God (in whatſoever Ages of the World) <hi>were never ſo</hi> to all Men, tho they were ſo to thoſe that received them, in that Evidence which brings Condemnation if re<g ref="char:EOLhyphen"/>jected.</p>
+            <p>But, that which farther induces me to believe thoſe <hi>Queries</hi> not put forth meerly, nay nor yet chiefly, for the Propoſers information, as Matters of which he doubted; but to inform others of his Judgment, and to ſtir them up to a Conſideration of his whole Hypotheſis: Firſt, Whether it be not conſiſtent with the Scrip<g ref="char:EOLhyphen"/>tures? Secondly, If ſo, Whether it be not the moſt probable Syſtem that
+<pb n="6" facs="tcp:40584:4"/>hitherto hath been propoſed, to re<g ref="char:EOLhyphen"/>concile the Doctrines of Scriptures to themſelves, from the ſeeming Con<g ref="char:EOLhyphen"/>tradictions which the various Profeſ<g ref="char:EOLhyphen"/>ſions of Men do fix upon them, and make the moſt difficult and per<g ref="char:EOLhyphen"/>plexing Points of Faith intelligible to the meaneſt Underſtanding?</p>
+            <p>In this I am yet farther confirm<g ref="char:EOLhyphen"/>ed, by the manifold Argumentations, Anticipations of Objections, with their Anſwers, and Explications of Scripture, ſo often occurring to the advertent Readers, in the Queries. To which add what he ſays in his Preface of <hi>another Treatiſe that he hath ready</hi> (if theſe Queries prove accepta<g ref="char:EOLhyphen"/>ble) <hi>in which the moſt important things in them are more at large treated of, and illuſtrated, than in the Queries, and that after another way:</hi> Which muſt then needs be by way of Poſition, and Argumentation; to ſay nothing of that other Treatiſe tranſlated out of <hi>Hebrew</hi> into <hi>Latin,</hi> under this Title,</p>
+            <pb n="7" facs="tcp:40584:4"/>
+            <q>
+               <l>De Revolutionibus Animarum, Tra<g ref="char:EOLhyphen"/>ctatus Primus, &amp;c. <hi>Or,</hi>
+               </l>
+               <l>The Firſt Treatiſe of the Revolutions of Souls, &amp;c.</l>
+            </q>
+            <p>Written ſeveral hundred years ago by a Rabbin, ſtyled the Eagle of the Cabaliſts.</p>
+            <p>Yet to do the Author all the Right I can, I do confeſs, that his propounding them rather by way of Query at firſt, may have been in hopes, that ſome Learned and Mode<g ref="char:EOLhyphen"/>rate Pen might, by diſcuſſing the Matters contained in them, in whole or in part, give him occaſion to cor<g ref="char:EOLhyphen"/>rect his firſt Thoughts in ſome Points, and ſo amend ſome parts of his Hypotheſis that are perhaps but weakly guarded, before he came to write any thing by way of Poſition. And who can blame this Modeſty, while he treads in a Path ſo ſeeming<g ref="char:EOLhyphen"/>ly new and hidden?</p>
+            <p>Yet this neither need nor ought ſo deter any moderate Pen from ſhew<g ref="char:EOLhyphen"/>ing either the ſelf-inconſiſtency of
+<pb n="8" facs="tcp:40584:5"/>the Hypotheſis, its Contrariety to the Scripture, or any the ill Conſequen<g ref="char:EOLhyphen"/>ces it's accompanied with, with re<g ref="char:EOLhyphen"/>ſpect either to the Chriſtian Faith or Life, leſt they ſhould loſe their time in writing againſt a Book that aſſerts nothing, and only asks Queſtions.</p>
+            <p>To prevent which Scruple, I have made this Collection of Fifty Poſiti<g ref="char:EOLhyphen"/>ons and Negations evident in the Queries; which to be ſure, if the Author ſhall hear of, and not purge himſelf timely of them, he will be the more accountable for them, and for any ill Conſequences, if any there be, that can juſtly be fixt upon them.</p>
+            <p>As I have then adventured upon the firſt Step, with all the Care and Caution imaginable; ſo ſome more able Pen, I hope, will undertake the latter; leſt, all Men being ſilent, it be look'd upon as a Conviction, if not of the Truth of the Hypotheſis, at leaſ of the inoffenſiveneſs of it, and us non-repugnancy to, or good conſiſtency with the Doctrines of
+<pb n="9" facs="tcp:40584:5"/>Chriſtianity, as the Title-page inſi<g ref="char:EOLhyphen"/>nuates.</p>
+            <p>In my Judgment, ſeeing the Au<g ref="char:EOLhyphen"/>thor was about to treat of the Soul, and that his Opinion concerning the firſt Exiſtence of it, varies from the moſt common received Opinion of Chriſtians, his firſt Query ought to have been concerning her firſt State; but of this we find nothing directly till <hi>pag.</hi> 129. where he intimates,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> That the Souls of Men did prae-exiſt in another World,<note place="margin">Qu. 157, &amp;c.</note> before this was made; out of which they do come into this World, when they are firſt born; for which cauſe that Term is made uſe of in Scripture, of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns coming into the world, Joh.</hi> 1.9.</p>
+            <p>This I ſay, I judge had been more proper for the Author to have begun with, before he had gone to treat of the Souls deſcent out of that her pure Virgin and Spiritual State, into the dark Dungeons of theſe our groſs Bodies; of which his other Queries by,</p>
+            <pb n="10" facs="tcp:40584:6"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> That after the Deſcent of the Soul into theſe our Bodies,<note place="margin">Qu. 4.64.</note> God, of his wonderful Long-ſuffering, Mercy, and Forbearance, does give unto every Man a long day of Vi<g ref="char:EOLhyphen"/>ſitation, even of a thouſand Years, to live upon this Earth, that ſo he may be converted, and, through Faith in the Blood of Chriſt, grow up to ſuch a State of Stability in Righteouſneſs, as to overcome, to be cleanſed, and to be made free from all Sin;<note place="margin">Matth. 20.30. Luke 1.17.23.56.</note> that ſo they may be fitted and prepared for that future and eternal Weight of Glory laid up for thoſe that ſhall have overcome; of which thoſe that are not ſo cleanſed, are utterly incapable: Or, that be<g ref="char:EOLhyphen"/>ing, as it were, on the other hand, perfected in Unrighteouſneſs and Un<g ref="char:EOLhyphen"/>belief, they may, by the juſt Judg<g ref="char:EOLhyphen"/>ment of God, be caſt into that ter<g ref="char:EOLhyphen"/>rible Torment, and long Damnation, that is appointed as the Lot and Por<g ref="char:EOLhyphen"/>tion of all thoſe, that ſhall have out finned ſo long a day of Viſitation, the and Tender of the Mercy of God in Jeſus Chriſt.</p>
+            <pb n="11" facs="tcp:40584:6"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> That no Man did ever live all this time of a thouſand Years upon this Earth at once: But that God ordi<g ref="char:EOLhyphen"/>narily giveth to every Soul of Man, ſince his Life was ſhortned to leſs thin a hundred Years,<note place="margin">Qu. 8, 61, 62, 63, 70, 114.</note> twelve Revo<g ref="char:EOLhyphen"/>lutions or Times of Living upon this Earth, and that continually in the ſame Body for Subſtance.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Except ſome holy Men, to whom God ſhewed that ſingular Grace, as to reveal unto them that Jeſus Chriſt ſhould come in the Fleſh, to be a Sa<g ref="char:EOLhyphen"/>crifice and Propitiation for the Sins of the whole World,<note place="margin">Qu. 44.</note> who being, through this Faith in his Name and Blood, perfectly purified, cleanſed, and ſanctified from all Sin, ſtood not (generally ſpeaking) in need of re<g ref="char:EOLhyphen"/>turning to live upon the Earth, un<g ref="char:EOLhyphen"/>til that time that all the Saints ſhall ſo return, to wit, in the firſt Reſur<g ref="char:EOLhyphen"/>rection, to live here together a thou<g ref="char:EOLhyphen"/>ſand Years.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> That the Souls do not return
+<pb n="12" facs="tcp:40584:7"/>immediately to their Bodies again, as the Heathen Philoſophers have taught, who all along did corrupt the Divine Truths, which they learned of the Church of God, by mixing in with them their own Imaginati<g ref="char:EOLhyphen"/>ons: But,<note place="margin">Qu. 194.</note> that every Soul is ſo long out of the Body, as, together with the time of the precedent Life, makes up one Hour, that is, according to this Hypotheſis, 333⅓ Years, <hi>except Infants, that return ſooner.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> That all the time from <hi>Adam</hi> to the Reſurrection of <hi>Jeſus Chriſt,</hi> which he ſaith is almoſt Four thou<g ref="char:EOLhyphen"/>ſand Years,<note place="margin">P. 8.</note> and which ſometimes he calls the Great Circle, ſometimes the Whole Great Revolution, is in Scripture called the Night. This be divides into Twelve equal Parts, as the Twelve Hours of the Night: One of which Hours being 333⅓ of Years, and Three Hours be<g ref="char:EOLhyphen"/>ing a Watch of the Night, makes the <hi>Pſalmiſt</hi> call a <hi>thouſand Years</hi> a <hi>Watch of the Night,</hi>
+               <note place="margin">Qu. 5, 11, 12, 61.63, 72, 74, 194.</note> in one ſenſe, (<hi>viz.</hi> as it is Three of theſe
+<pb n="13" facs="tcp:40584:7"/>Hours of this Night (or Time from <hi>Adam</hi> to <hi>Chriſt</hi>) and in another ſenſe as one <hi>Day</hi> (<hi>viz.</hi> as it is the Day of Viſitation which God gives every Man to live upon the Earth) <hi>Pſal.</hi> 90. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. And from this Text he admi<g ref="char:EOLhyphen"/>rably derives all his Scripture-Chro<g ref="char:EOLhyphen"/>nology.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> That during the abſence of the Soul out of the Body, it remains in the ſame State, till its return again into the Body;<note place="margin">Qu. 32.</note> God having appoint<g ref="char:EOLhyphen"/>ed no other Place, nor State, out of the Body, for Men and Women to be converted in, but this Earth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> That the Souls of the Righteous, whether they have had the outward law, or only the inward Law, while they were in the Body, are, during this abſence out of the Body,<note place="margin">Qu. 43.</note> at reſt: but that thoſe of the Impenitent and Wicked are not ſo.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> That Faith in the Man <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus,</hi> crucified and offered up as a Pro<g ref="char:EOLhyphen"/>pitiation for the Sins of the World,<note place="margin">Qu. 39, 40, 41, 42.</note>
+               <pb n="14" facs="tcp:40584:8"/>is ſo neceſſary to Salvation, that no Man ever was, or ever ſhall be ſaved, or receive Remiſſion of his Sins, but through Faith in his Name and Blood.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/> That <hi>Jeſus Chriſt</hi> was by his Death a Ranſom for the Sins that were un<g ref="char:EOLhyphen"/>der the Firſt Teſtament,<note place="margin">Heb. 9.15.</note> ſo that even the Sins of <hi>Cain, Eſau,</hi> and all that died in their Sins,<note place="margin">Qu. 19, 22, 52, 65, 70.</note> before the Reſur<g ref="char:EOLhyphen"/>rection of <hi>Chriſt,</hi> and the preaching of the Goſpel, ſhould be pardonable to them, at what time ſoever they ſhould, again live in the World, if, when they ſhould hear the Goſpel preached unto them, they ſhould tru<g ref="char:EOLhyphen"/>ly believe in his Name: And conſe<g ref="char:EOLhyphen"/>quently, that none had at that time committed the unpardonable Sin againſt the Holy Ghoſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XI"/> That no Man ſhall be condemned to that terrible and long Damnation; in the End of this World; and afters its Conflagration, but for having neglected ſo long a Day of Mercy,<note place="margin">Qu 36, 39, 29.</note> and particularly for having rejected the Tenders of the Mercy of God in
+<pb n="15" facs="tcp:40584:8"/>
+               <hi>Jeſus Chriſt,</hi> preached unto them in the Goſpel, as well outwardly as in<g ref="char:EOLhyphen"/>wardly; for which all their Sins, of a thouſand Years paſt, ſhall be charged upon them, that ſo God may be juſt in ſentencing them to that terrible and long Damnation for Ages of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ges. of which no Man knows the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd. Heb.</hi> 2.3. <hi>John</hi> 8.24.16.9.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XII"/> That though God hath in all Ages <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en to Mankind a Diſpenſation of Grace, even of Goſpel-Grace, through <hi>Chriſt Jeſus;</hi>
+               <note place="margin">Qu. 26, &amp;c.</note> yet where it pleaſed him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſuperadd that ſingular Grace of the Revelation of <hi>Chriſt</hi> to come in the Fleſh, to be offered up as a Propitiation for the Sins of the whole World, <hi>that Grace</hi> was not ſufficient to the final and eternal Salvation of my Man, it not being indeed given <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>that end,</hi>
+               <note place="margin">Luk. 1.17.</note> but only to prepare their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arts for the Reception of that Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rive, when God in his Providence <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould cauſe the ſame to be preached <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, both outwardly and in<g ref="char:EOLhyphen"/>wardly.</p>
+            <pb n="16" facs="tcp:40584:9"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XIII"/> That therefore all Men, of all A<g ref="char:EOLhyphen"/>ges, and in all Places of the World, that have lived and died without ever hearing of THAT VERY GOSPEL of the Kingdom preach<g ref="char:EOLhyphen"/>ed to them,<note place="margin">Qu. 37, 51, 52.</note> WHERE MENTION SHALL BE MADE OF WHAT THAT WOMAN DID TO CHRIST IN MEMORIAL OF HER,<note place="margin">Matth. 24.14.26.13.</note> ſhall live again in the World, in ſome Age and Place where they ſhall hear it, before the End of the World; that ſo they may be in a ca<g ref="char:EOLhyphen"/>pacity, through. Faith in his Name and Blood, of receiving the Remiſſi<g ref="char:EOLhyphen"/>on on of their Sins, or be condemned to that juſt Damnation which the Con<g ref="char:EOLhyphen"/>tempt and Rejection of ſo great Mercy and Salvation ſhall demerit.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XIV"/> That therefore, no one Man had finiſhed all his Twelve Revolutions before <hi>Chriſt</hi> was offered up upon the Croſs, riſen again from the Dead, and that Remiſſion of Sins was preached in his Name;<note place="margin">Qu. 95, 96.</note> becauſe then ſuch a Soul could not have been ſa<g ref="char:EOLhyphen"/>ved.
+<pb n="17" facs="tcp:40584:9"/>And for this Cauſe it was that the Apoſtle ſaid, <hi>that even now, in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of the World,</hi> after <hi>Chriſt</hi> was appeared to put a way Sin by the Sa<g ref="char:EOLhyphen"/>crifice of himſelf, it was yet appoint<g ref="char:EOLhyphen"/>ed for all Men <hi>[at leaſt]</hi> once to die, before the Judgment of God ſhould <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lly come upon them, <hi>Heb,</hi> 9.26.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XV"/> That that time when <hi>Chriſt</hi> aroſe from the Dead, and the Apoſtles were ſent forth into the World to preach Remiſſion of Sins through Faith in his Name and Blood, was the laſt Revolution,<note place="margin">Qu. 67, 87.</note> or laſt time of living upon Earth, to many that were then alive; and that therefore <hi>Chriſt</hi> was then to come, and could not ſtay way any longer, no more than he could come ſooner, that being the Fulneſs of Time appointed by God, <hi>Gal.</hi> 4.4.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVI"/> That from that time forward it has been all along, and ſhall ſo con<g ref="char:EOLhyphen"/>tinue to the End of the World to the, the laſt Time, Revolution, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, to many in all Ages, in which
+<pb n="18" facs="tcp:40584:10"/>they muſt be converted, or they can<g ref="char:EOLhyphen"/>not be ſaved; for Men having once heard the Preaching of' the Goſpel;<note place="margin">Qu. 87.</note> after the wilful rejection of it, there remains no more Sacrifice for the Sin of ſuch, but a fearful looking for of Judgment, and violent Fire, which ſhall devour the Adverſaries, <hi>Heb.</hi> 10.27. 1 <hi>Pet.</hi> 1.20. 1 <hi>John</hi> 2.18.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVII"/> That therefore this Doctrine can<g ref="char:EOLhyphen"/>not give any encouragement for any Mans perſiſting in his Sins, or for the procraſtinating of his Repentance and Converſion, in hopes that he ſhall live another time upon the Earth,<note place="margin">Qu. 81, 82, 84.</note> and then be converted be<g ref="char:EOLhyphen"/>cauſe, firſt, <hi>No Man knows but this is his laſt Hour; nor yet, if he ſhould have yet more Hours to live upon Earth, but that it will only tend to his farther hardning againſt the Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel, to the aggravation of his Damna<g ref="char:EOLhyphen"/>tion, and not at all towards his Con<g ref="char:EOLhyphen"/>verſion, becauſe he has now neglected and reſiſted ſo great Salvation.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XVIII"/> That as no Man is reputed righte<g ref="char:EOLhyphen"/>ous
+<pb n="19" facs="tcp:40584:10"/>before God, only for the Righte<g ref="char:EOLhyphen"/>ouſneſs of <hi>Jeſus Chriſt,</hi> who hath not conſented to, and received it,<note place="margin">Qu. 161, 162, 167, 171.</note> by a living Faith, to the purifying of his heart; ſo neither ſhall any Man be reputed before God a formal Sinner only for the Tranſgreſſion of <hi>Adam,</hi> who never conſented to it: that all Souls did ſo, and that that's the reaſon why all Men do ſo partake of the diſmal Effects occaſioned thereby.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XIX"/> Except ſome few excellent Souls, who, not conſenting thereunto, did cleave unto <hi>Chriſt</hi> their Head, and are therefore in holy Scripture called his Fellows, <hi>Pſal.</hi> 45.7. <hi>Heb.</hi> 1.9.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XX"/> That all the great and manifold Promiſes made to the <hi>Jews</hi> (of which the greateſt part are yet to be fulfil<g ref="char:EOLhyphen"/>led in theſe laſt days) were made to that <hi>whole People,</hi>
+               <note place="margin">Qu. 48, 49, 50, 54, 55, 56, 57, 60,</note> to all the natural Branches, of all Ages, and not only to the Children, which ſhall yet live in the laſt days, with ſecluſion of the fathers of former Ages, who died in unbelief; which cauſed the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="20" facs="tcp:40584:11"/>to ſay moſt expreſly, <hi>That all Iſ<g ref="char:EOLhyphen"/>rael ſhall be ſaved,</hi> and <hi>that thoſe Branches that were then cut off though unbelief, ſhould be grafted in again, Row.</hi> 11.12, 16.17.19.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXI"/> That the Twelve hundred and ſix<g ref="char:EOLhyphen"/>ty Days of the Prophecy of the Two Witneſſes,<note place="margin">Qu. 79.</note> 
+               <hi>Rev.</hi> 11.3. muſt be un<g ref="char:EOLhyphen"/>derſtood of ſo many natural Days, not of ſo many Years.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXII"/> But that, on the contrary, the Twelve hundred and ſixty Days of the Kingdom and Reign of Anti<g ref="char:EOLhyphen"/>chriſt,<note place="margin">Qu. 180.</note> muſt be underſtood of ſo ma<g ref="char:EOLhyphen"/>ny Prophetical Days, <hi>i.e.</hi> Years, ac<g ref="char:EOLhyphen"/>counting a Day for a Year, as the Prophets were wont to do.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXIII"/> That the Land mention'd <hi>Exod.</hi> 20.12. is that New Earth of which <hi>Peter</hi> writes;<note place="margin">Qu. 97, 98.</note> and that the Promiſe in the Fifth Commandment is not yet fulfilled to the generality of Men, whoſe Days, ſince that time, have been not long, but ſhort, upon Earth 2 <hi>Pet.</hi> 3.13.</p>
+            <pb n="21" facs="tcp:40584:11"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXIV"/> That no Man hath, nay, not any of the Saints have hitherto, ever com<g ref="char:EOLhyphen"/>pleatly born the Image of the Earth<g ref="char:EOLhyphen"/>ly Man,<note place="margin">1 Cor. 15.49. Qu. 100, 102, 103.</note> that is, of <hi>Adam</hi> before the Fall, or in the State of Innocence; but that THAT is reſerved as the peculiar Privilege of the Saints in the firſt Reſurrection, when they ſhall live a thouſand Years upon Earth, in Bodies free from Sin, leading a Life of perfect Holineſs, without the leaſt Sin or Diſorder.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXV"/> That there is a State of greater Perfection than a being free from Sin; and that if <hi>Adam</hi> had not ſin<g ref="char:EOLhyphen"/>ned, he ſhould have known it; and lived a thouſand Years ſo on Earth, in order to his being perfected in Holineſs, that he might thereby be faced and prepared for his entrance into that future Glory.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXVI"/> That in the firſt Reſurrection the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aints ſhall not all be raiſed up at <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e (as in the ſecond Reſurrection) but that they ſhall be born into the<note place="margin">1 Cor. 15.52, Qu. 108, 181.</note>
+               <pb n="22" facs="tcp:40584:12"/>World, of Holy Women and Virgin-Mothers, that, ſo they may, even in that reſpect, be like their Head, tho' ſtill inferiour to him; and that for this cauſe this Time is called by <hi>Chriſt</hi> the <hi>Regeneration.</hi>
+               <note place="margin">Matt. 19.28.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXVII"/> That they ſhall every one be born in their Order as they died,<note place="margin">1 Cor. 15.23. 1 Theſſ. 4.16. Qu. 105, 181, 79, 80.</note> ſaving the Two Witneſſes <hi>Moſes</hi> and <hi>Elies,</hi> who ſhall live again among the firſt, even in the Interval of Forty five Years before the thouſand Years be<g ref="char:EOLhyphen"/>gin; about which time <hi>John</hi> alſo is to live again, and to meaſure the Temple.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXVIII"/> That the Saints ſhall be a bring<g ref="char:EOLhyphen"/>ing forth into the World Two hun<g ref="char:EOLhyphen"/>dred and ſixty Years,<note place="margin">Qu. 181, 110.</note> in which time they ſhall all be born: And that af<g ref="char:EOLhyphen"/>terwards, before the end of the World, all Generation ſhall ceaſe for a full thouſand Years; that ſo every one may have at leaſt a thouſand Years to live upon Earth, and ſo the Day of <hi>Chriſt</hi> be as long as the Night of Antichriſt, that is, Twelve hun<g ref="char:EOLhyphen"/>dred and ſixty Years.</p>
+            <pb n="23" facs="tcp:40584:12"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXIX"/> That this Divine Generation ſhall begin in evening of the ſixth thou<g ref="char:EOLhyphen"/>ſand Years, Two hundred and ſixty Years within the ſixth <hi>Millenium,</hi> in the Year of the World 5740,<note place="margin">Qu. 113, 180.</note> or from the Birth of <hi>Chriſt</hi> 1777, if his Chronology holds good; by which I am told, that he thinks that the Converſion of the <hi>Jews</hi> ſhall begin 1666 Years after <hi>Chiſt</hi>'s Reſurre<g ref="char:EOLhyphen"/>ction, <hi>i. e.</hi> about <hi>Anno</hi> 1699, or 1700.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXX"/> That the Saints ſhall receive great advantage by their return to live upon the Earth a thouſand Years, becauſe they ſhall then receive Bodies,<note place="margin">Qu. 186, 187, 190.</note> as <hi>Adam</hi>'s in the State of Innocency, free from all Sin and Diſorder, toge<g ref="char:EOLhyphen"/>ther with all the other Privileges be<g ref="char:EOLhyphen"/>longing to that State, and therein be more and more perfected in Holineſs, and ſo fitted to receive (in the ſe<g ref="char:EOLhyphen"/>cond Reſurrection) the Divine and Celeſtial Body, from the ſecond <hi>A<g ref="char:EOLhyphen"/>dam;</hi> and that that State ſhall ſo far tranſcend the former State, as the Image of the Heavenly doth the
+<pb n="24" facs="tcp:40584:13"/>Image of the Earthly, and as the ſecond <hi>Adam</hi>'s quickning Spirit doth excel the firſt <hi>Adam</hi>'s living Soul.<note place="margin">1 Cor. 15.45.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXI"/> That thoſe that are not converted before the expiration of the Sixth thouſand Years, ſhall not be convert<g ref="char:EOLhyphen"/>ed in this World,<note place="margin">Qu. 178.</note> but ſhall, in the Conflagration thereof, be bur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and afterwards be tormented for Ages of Ages, Time without end, with reſpect to the Knowledge of Man, but not of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXII"/> That thoſe <hi>dead, which are ſaid not to live again till the thouſand years be exprired,</hi>
+               <note place="margin">Rev. 20.5.</note> are probably ſuch as had ended their Revolutions in impeti<g ref="char:EOLhyphen"/>tency in this World,<note place="margin">Qu. 111, 112.</note> together with perhaps ſome other fallen Souls in ſome former World, who, being at that time living all together upon the Earth, ſhall form the Armies of <hi>Gog</hi> and <hi>Magog,</hi> that ſo reſiſting the Truth and the Saints to the utter<g ref="char:EOLhyphen"/>moſt, they may be together juſtly caſt into that terrible Damnation al<g ref="char:EOLhyphen"/>ready ſpoken of.</p>
+            <pb n="25" facs="tcp:40584:13"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXIII"/> That as it is evident from <hi>Moſes</hi> his Deſcription of the making of this World,<note place="margin">Qu. 155, 157, 160.</note> that there was a World be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore this World, ſo ſhall there alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Worlds after this.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXIV"/> That it's plain from <hi>Heb.</hi> 11.3. that this World was not created out <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Nothing, but out of the Inviſible,<note place="margin">Qu. 156.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that which did not appea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXV"/> That there are ſome ſo great Sin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is, that they ſhall not be pardoned in this World,<note place="margin">Matt. 12.31, 32. Qu. 130, 131, 139.</note> nor in that which is (next) to come; but in ſome after-World, more remote, and to ſucceed <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er that which is next to be.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXVI"/> That the Soul, in each Revoluti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, when it receives the firſt begin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of its Body in the Womb, doth,<note place="margin">Qu. 123, 124.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Magnetick Vertue, attract to it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf the Particles of its former Body, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Loadſtone doth the Particles <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iron duſt; ſo that there is a Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lution of the ſame Bodies as well <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſame Souls.</p>
+            <pb n="26" facs="tcp:40584:14"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXVII"/> That the Soul in the ſecond Reſ<g ref="char:EOLhyphen"/>urrection is alſo reunited to its own Body;<note place="margin">Qu. 114, 116, 117, 176.</note> the ſame, I ſay, for ſubſtance, to wit, as to its Eſſential Parts, or Hypoſtatick Principles; as the Body of a Child and a Man are thought to be the ſame, and the Body of a Man at Sixty Years old, is the ſame that he had at Twenty Years, tho' wonderfully changed in reſpect of the more groſs and inanimate Parts.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXVIII"/> That the more groſs Part of that which is called the Body,<note place="margin">Qu. 118, 119, 120, 121.</note> is rather ſomething that cleaves to the Body, than the Subſtance of the Body it ſelf; and riſes not in the Reſurrecti<g ref="char:EOLhyphen"/>on ſo as to make any Part of the Bo<g ref="char:EOLhyphen"/>dy, which ſhall be the ſame for Sub<g ref="char:EOLhyphen"/>ſtance, tho' not for Quality; becauſe it ſhall be changed and ſpiritualliz'd: Juſt as the Husk, or more groſs Part of the Body of the Grain, that is ſown, riſes not out of the Earth, ſo as to make any Part of the new Bo<g ref="char:EOLhyphen"/>dy of the Grain that comes up.</p>
+            <pb n="27" facs="tcp:40584:14"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XXXIX"/> That nothing is perfectly dead, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that all things do, in ſome de<g ref="char:EOLhyphen"/>gree,<note place="margin">Qu. 125, 126, 127, 128, 129.</note> live: And that that Objection which ſome Philoſophick Divines of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Times do make againſt the riſing again of the ſame Body for Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ance, is very frivolous, Becauſe ſay they) <hi>the Body is no living ſenſible <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rinciple;</hi> which is their Error.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XL"/> That the Body of Man ſhall not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe naked,<note place="margin">Qu. 118, 119, 120.</note> but ſhall be clothed upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the heavenly Body, the immor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, ſpiritual, and incorruptible Bo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y: And that our Bodies, which are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turally mortal and corruptible, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by it made ſpiritual, immortal, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>corruptible, 1 <hi>Cor.</hi> 15.42.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLI"/> That as the Bodies of all the Saints which are no inconſiderable part of his Earth) ſhall,<note place="margin">Qu. 122.</note> in the end of this World, be ſpiritualliz'd and glori<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d; ſo ſhall all the other Particles <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Earth, in the other Worlds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall ſucceed this.</p>
+            <pb n="28" facs="tcp:40584:15"/>
+            <p>With reference to this Article,<note place="margin">N. B.</note> I am informed, that the Author ſup<g ref="char:EOLhyphen"/>poſes, that by how much this World is diminiſhed by thoſe glorified Parts of which the Bodies of the Saints are formed, by ſo much it is aug<g ref="char:EOLhyphen"/>mented, tho' inſenſibly as to us; and that this. Earth changeth, as doth the Body of Man, after its ſort; for that all things are in a continual motion, flux, and change, <hi>ſave God alone, who is alone unchangeable.</hi> So that, tho' it be ſaid,<note place="margin">Eccleſ. 1.4.</note> 
+               <hi>the Earth abides for ever,</hi> or for Ages, it is only to be un<g ref="char:EOLhyphen"/>derſtood of the Earth in Species and Form, but not in reſpect of the ſame number of individual Particles that do conſtitute the Earthly Matter, which is in continual change; the Earth continually receiving from the viſible Heavens, and continually gi<g ref="char:EOLhyphen"/>ving forth unto them again, and to other Worlds in viſible to us.</p>
+            <p>But becauſe this is not in his Book (tho' very agreeable to his Hy<g ref="char:EOLhyphen"/>potheſis) I will not inſert it other<g ref="char:EOLhyphen"/>wiſe than as a Report.</p>
+            <pb n="29" facs="tcp:40584:15"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLII"/> That at the laſt all the Creatures ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll be delivered to partake of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orious Liberty of the Sons of God,<note place="margin">Qu. 130, 131, 133.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſhall all (as <hi>John</hi> heard them) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all <hi>that are in Heaven,</hi>
+               <note place="margin">Rev. 5.13.</note> 
+               <hi>on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rth, and in the Sea, praiſe, honour, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d glorifie the Lord and the Lamb.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLIII"/> That tho' the Scripture doth uſe the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Qu. 137, 138.</note> to expreſs the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation of the Torments of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icked, as of the Felicity of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nts; yet there is no neceſſity that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey muſt be therefore of one and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſame duration; as every conſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rate Man, that reads, may eaſily <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerve. And therefore tho' the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>appineſs of the Saints is SO <hi>for</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, that it ſhall never have an end, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o more than God can ceaſe to be; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t it is not <hi>ſo,</hi> with reſpect to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erlaſting Torments of the Wicked, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut that they at laſt ſhall ceaſe; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o' when that End ſhall be, is only <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>own to God alone.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLIV"/> That the Doctrine of Eternal
+<pb n="30" facs="tcp:40584:16"/>Damnation in the vulgar Senſe,<note place="margin">Qu. 136, 137, 141, 147.</note> (viz.) <hi>for Ages infinite and innumera<g ref="char:EOLhyphen"/>ble, not only with reſpect to the Know<g ref="char:EOLhyphen"/>ledge of all Men,</hi> which is granted) <hi>but alſo with reſpect to the Knowledge of God himſelf;</hi> is a Doctrine falſe and abſurd, and contrary to that Idea which all prudent Men have of God, who is Love it ſelf, and is both merciful and juſt: And that the Damnation and Torment of the Wicked is truly enough ſaid, in a Scripture-ſenſe, to be <hi>for ever, for ever and ever, everlaſting;</hi> or <hi>endleſs,</hi> tho' it be none of theſe with reſpect to the Knowledge of God; becauſe the Scripture uſeth theſe Terms of <hi>for ever,</hi>
+               <note place="margin">Gen. 13.15.12.14, 17. Deut. 15.17.29.29. Iſa. 30.8. Jer. 7.7. Gen. 17.8.49.26. Pſal. 90.2. 2 Kings 17.37.</note> and <hi>everlaſting,</hi> to things of far leſs duration than ſhall be the Torment of the Wicked in the end of the World, after they have neg<g ref="char:EOLhyphen"/>lected ſo long a Day of Mercy as a thouſand Years, and ſo clear a hold<g ref="char:EOLhyphen"/>ing of it forth, as in the Preaching of the Goſpel outwardly as well as inwardly to them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLV"/> That it hath no Foundation in
+<pb n="31" facs="tcp:40584:16"/>holy Scripture,<note place="margin">Qu. 131, 132, 133, 134, 140, 151.</note> not bears any propor<g ref="char:EOLhyphen"/>tion with any Idea of Juſtice Humane a Divine; for Juſtice always pro<g ref="char:EOLhyphen"/>portions all Puniſhments to the Crimes committed; but 'tis impoſ<g ref="char:EOLhyphen"/>ſible for any Man to aſſign any Pro<g ref="char:EOLhyphen"/>portion between a Temporal Crime <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd an Eternal Puniſhment, in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulgar ſenſe, becauſe there is no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oportion betwixt Time and Eter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLVI"/> That it tends to nothing, but, on the one ſide, to enſnare the Souls of many pious Men and Women with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>extricable Scruples; and,<note place="margin">Qu. 145, 146, 147.</note> on the the other hand, to furniſh the Athe<g ref="char:EOLhyphen"/>ſtick Spirits of theſe Times (the very Scab of the Age) with Matter of Mockery againſt the Doctrine of Goſpel, while they find ſo un<g ref="char:EOLhyphen"/>reaſonable and abſurd a Doctrine as this, with ſo much Zeal and Confi<g ref="char:EOLhyphen"/>dence, preached up, as one of the moſt weighty Doctrines of <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus,</hi> by all Sects that make profeſſion of his Name, which therefore (with<g ref="char:EOLhyphen"/>out all examination) they take for
+<pb n="32" facs="tcp:40584:17"/>granted; to be his, and ſo make no difficulty of exploding all the reſt, becauſe they do clearly, find this to be falſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLVII"/> That therefore it had been much better and ſafer that Men had at firſt kept (in a Matter of this conſe<g ref="char:EOLhyphen"/>quence) to the Terms,<note place="margin">Qu. 135.</note> which the Holy Ghoſt hath uſed to expreſs this great and terrible Damnation by; and that they would yet return to the ſame, <hi>viz.</hi> that it <hi>ſhall be ever<g ref="char:EOLhyphen"/>laſting, for ever, for ever and ever,</hi> or <hi>for Ages of Ages,</hi> of which no Man, and only God alone, doth know the end.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLVIII"/> That thoſe who believing this, cannot be induced to leave their Bo<g ref="char:EOLhyphen"/>ſom-ſins for fear of ſo <hi>great Judg<g ref="char:EOLhyphen"/>ment,</hi>
+               <note place="margin">Qu. 149.</note> in which yet they can clearly and diſtinctly conceive a poſſibility of a Proportion and Conſiſtency with Juſtice, will never leave them for that other unreaſonable Addition, which they clearly diſcern to have no Foundation in Juſtice at all, but
+<pb n="33" facs="tcp:40584:17"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a meer Chimera; and they that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o not believe ſuch a Puniſhment as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſiſtent with Juſtice, can much leſs believe the other that is not ſo.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XLIX"/> That tho' the fear of Puniſhment. be a reaſonable and neceſſary Motive to advance againſt Sin,<note place="margin">Qu. 150.</note> yet that of the Love and Mercy of God in <hi>Jeſus Chriſt</hi> is much more prevalent: Yea, that that of Fear, without the hope of this of Mercy, can be of no force to perſuade the Soul of any Man.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> That it is of the Nature of God's Vindictive Juſtice to aim at the Amendment and Converſion of Sin<g ref="char:EOLhyphen"/>ners;<note place="margin">Qu. 141.</note> And that all his Afflictions and Puniſhments are the meer Effects of his Love, applied as ſo many Medi<g ref="char:EOLhyphen"/>cines for their Recovery.</p>
+            <p>Behold here, <hi>Sir,</hi> if not all (for ſome may have ſlipt my obſervation) at leaſt the moſt important and prin<g ref="char:EOLhyphen"/>cipal Doctrines (as I think) pointed at in the <hi>Two hundred Queries:</hi> Con<g ref="char:EOLhyphen"/>cerning which, you will (with me)
+<pb n="34" facs="tcp:40584:18"/>no doubt conclude, That it was not without Reaſon that the Author ſaid <hi>he did not preſume to the utmoſt aſſurance of every Particular there pro<g ref="char:EOLhyphen"/>poſed, and therefore would not impoſe them upon his Chriſtian Brethren as the infallible Dictates of the Holy Ghoſt; and much leſs as neceſſary Articles of their Faith.</hi>
+            </p>
+            <p>While yet he ſeems tho', to have ſo many Reaſons for his Chief Do<g ref="char:EOLhyphen"/>ctrine of the various Revolutions of the Souls of Men, that he cannot doubt of the Truth of it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> As, firſt, Becauſe the Scripture teacheth it in expreſs Terms (as he ſaith) in divers places,<note place="margin">Pſ. 90.3, 4. Matth. 21.23, 35, 36, 37, 38, 39. 1 Theſſ. 2.15. Matth. 11 14. Rev. 11.1.</note> as a general Docrine, and confirms it by particu<g ref="char:EOLhyphen"/>lar Examples.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Becauſe it has been all along re<g ref="char:EOLhyphen"/>ceived in the Church under the Old Teſtament, as a conſtant Truth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Becauſe it hath been received from the Jewiſh Church by the moſt cele<g ref="char:EOLhyphen"/>brated and ſerious of the Heathen Philoſophers, as ſuch.</p>
+            <pb n="35" facs="tcp:40584:18"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Becauſe it was believed as ſuch, then <hi>Chriſt</hi> came in the Fleſh, by the better part of the Church, even by ſuch the Jews became his Di<g ref="char:EOLhyphen"/>ſciples, as appears by their Queſtions to him.<note place="margin">Mark 8.28. Luke 9.19. John 9.2.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> Becauſe <hi>Chriſt,</hi> notwithſtanding the many Occaſions his Diſciples gave him to have informed them better,<note place="margin">Qu. 195.</note> (had it been an Error or Chimera of the Rabbins) he never reproved them for if, but rather, upon all oc<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſions, preſuppoſing the Doctrine of the Corporal Regeneration to be true, he endeavours further to in<g ref="char:EOLhyphen"/>form them of ſome things which they then of underſtood not; and par<g ref="char:EOLhyphen"/>ticularly from thence takes occaſion to preach his Fundamental Doctrine of the Spiritual Regeneration,<note place="margin">John 3.4, 5.</note> and the Neceſſity of it: which certainly he would never have done, had it been a meer Fiction, that was not <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terum Natura.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> Becauſe of the Offence the <hi>Jews,
+<pb n="36" facs="tcp:40584:19"/>Turks,</hi> and others, <hi>Pagan</hi> Nations, (who do believe it to be ſo neceſſary a Truth, as that without preſuppo<g ref="char:EOLhyphen"/>ſing it, they judge that there is no clear evincing of the chiefeſt Attri<g ref="char:EOLhyphen"/>butes of God, as his <hi>Juſtice, Mercy,</hi> and <hi>Wiſdom</hi>) do take at the Chriſtian Religion, for rejecting that Doctrine, frankly averring, That the Chriſtians ſeem to them rather to worſhip the Idol of their owr Brains, than the True God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> And laſtly, Becauſe, without pre<g ref="char:EOLhyphen"/>ſuppoſing it to be a Truth, there are many Paſſages and expreſs Doctrines of the Scriptures which are not ſo well (to ſay no more) by any other Principles reconcileable to them<g ref="char:EOLhyphen"/>ſelves, to the Truth, to the Experi<g ref="char:EOLhyphen"/>ence of all Men, and to the <hi>Juſtice, Mercy,</hi> and <hi>Wiſdom</hi> of God. As,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <hi>That with God there it no reſpect of Perſon.</hi>
+               <note place="margin">Ezech. 18.25. Act. 10.34. 2 Sam. 4.14. Col. 3.25.</note> When we certainly be<g ref="char:EOLhyphen"/>lieve, from Scripture-teſtimony, that he hath given to ſome five, ſix, ſe<g ref="char:EOLhyphen"/>ven, eight, nine hundred Years, to
+<pb n="37" facs="tcp:40584:19"/>live upon the Earth, that they might be converted and perfected in Holi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>While we daily ſee many others out off in their Sins, without having the one tenth part of a hundred Years to be converted in.</p>
+            <p>Again, Some are born with large Capacities both as to Body and Mind.</p>
+            <p>Whilſt others are born under great Diſtempers of both; yea, ſtark Fools and Madmen, without any exerciſe of Reaſon or Underſtanding; of whom it cannot properly be ſaid that they are enlightned, becauſe they want the Capacity of being ſo.</p>
+            <p>Again, Some are born in Ages and Places of the World, when, and where, much Goſpel-Light and great Holineſs hath ſhined forth in very eminent Examples.</p>
+            <p>While others are born and die in Ages and Places of the World, where little or no Goſpel-Light hath ſhi<g ref="char:EOLhyphen"/>ned, and ſcarce any Examples of Vertue and true Holineſs have ap<g ref="char:EOLhyphen"/>peared; but much Darkneſs, Super<g ref="char:EOLhyphen"/>ſtition,
+<pb n="38" facs="tcp:40584:20"/>Idolatry, and Profaneneſs.</p>
+            <p>Now how doth, the <hi>Equality of God</hi> to all the Sons of Men, and his non-reſpect of Perſons, (not to ſay his Juſtice, Mercy, and Wiſdom) ſo well appear, to a reaſonable, impartial Man, as by this Hypotheſis, which aſſerts all Men to have an equal Day of a thouſand Years, and that in di<g ref="char:EOLhyphen"/>vers Ages of the World, and by which every one lives, at leaſt once, to hear the Goſpel of the Kingdom preach'd to him outwardly and in<g ref="char:EOLhyphen"/>wardly?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The Scripture teaches, in moſt ex<g ref="char:EOLhyphen"/>preſs Terms,<note place="margin">Rom. 2.16. John 3.5. Heb. 11.6. &amp; 12.14. Gal. 6.7.</note> 
+               <hi>That Chriſt will render unto every Man according to the Deeds done in the Body, good or evil: That except a Man be born again, he cannot enter into, nay, nor ſo much as ſee, the Kingdom of God: that without Holi<g ref="char:EOLhyphen"/>neſs no Man ſhall ſee him; and that without Faith it is impaſſible to pleaſe God.</hi>
+            </p>
+            <p>Now, ſaith he, How can this be true with reſpect to the many Milli<g ref="char:EOLhyphen"/>ons of Mankind, ſome of which do
+<pb n="39" facs="tcp:40584:20"/>die in their Infancy, others live and die in Frenzy, and others natural Idiots, never being in any capacity <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either doing good or evil, <hi>while they are in the Body?</hi> Except this Doctrine be received, which ſuppoſes them to have lived before, when they had a Capacity; or that they ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after, and ſhall have a Capacity of doing good and evil <hi>in the Body,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of receiving a Reward accord<g ref="char:EOLhyphen"/>ingly? Beſides, How is the common Doctrine of all Chriſtians, both Pa<g ref="char:EOLhyphen"/>piſts and Proteſtants, with reſpect to theſe Creatures, reconcileable to the Juſtice, Wiſdom; and Mercy of God, and to the Scriptures alledged, with many more that might be produced?</p>
+            <p>For, Whither ſhall theſe Infants, Franticks, and Fools go? What ſhall become of them?</p>
+            <p>Shall they all go to Heaven, and partake of that eternal Weight of Glory, prepared only for thoſe that have overcome? For what, I pray? What good have they done, that they ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould reap ſo great a Reward?</p>
+            <p>Shall they all go to Hell? For
+<pb n="40" facs="tcp:40584:21"/>what, I wonder? What evill have they done, that they ſhould be con<g ref="char:EOLhyphen"/>demned to ſo great Damnation? How doth the Wiſdom of God appear in the former? or his Juſtice in the latter?</p>
+            <p>Shall they go to the Popiſh <hi>Lim<g ref="char:EOLhyphen"/>bus,</hi> where they ſhall be free from Pain or Pleaſure, but for ever ſeclu<g ref="char:EOLhyphen"/>ded the Preſence of God? But where do the Scriptures ſpeak of any ſuch middle Place or State?</p>
+            <p>Not to ſpeak of the inconceivable<g ref="char:EOLhyphen"/>neſs of ſuch a State, as in which In<g ref="char:EOLhyphen"/>tellectual Beings; <hi>(if theſe can be ſaid to be ſuch)</hi> deprived of all outward Objects to divert their Thoughts up<g ref="char:EOLhyphen"/>on, ſhould (while to all Eternity de<g ref="char:EOLhyphen"/>prived of the Enjoyment of the Pre<g ref="char:EOLhyphen"/>ſence of God) be void of Torment?</p>
+            <p>Or ſhall they (as the <hi>Socinians</hi> ſay of the Wicked) be annihilated?</p>
+            <p>But what Glory can accrue to that Supream Intellectual Being, (who created all things for his own Glory) by annihilating any of his Intellectu<g ref="char:EOLhyphen"/>al Creatures? To ſay no more.</p>
+            <p>What more reaſonable Solution
+<pb n="41" facs="tcp:40584:21"/>then of this Difficulty hath hitherto <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n found, than this <hi>Hypotheſis;</hi> which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars both the Wiſdom, Juſtice, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercy of God, in rewarding or con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mning them, becauſe he hath afford<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, or will afford them other Oppor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nities of living upon the Earth, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich they received, or will receive a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apacity of doing Good or Evil; of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ving in <hi>Chriſt,</hi> or perſiſting in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> belief?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> What Doctrine doth the Scripture <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpecially the New Teſtament) ſeem <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> teach, more expreſly, more plainly, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with more earneſtneſs, than the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ceſſity of Faith in the Man <hi>Chriſt,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> order to Salvation? Saying,</p>
+            <p>
+               <hi>That there is no other Name under <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>en, by which any Man tan be ſaved,</hi>
+               <note place="margin">Acts 4.12.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that of Jeſus.</hi>
+               <note place="margin">Mat. 26.8. Luke 24.47. Acts 2.38.10.43. Rom. 2.25. Heb. 9.22.10.18.</note>
+            </p>
+            <p>
+               <hi>That Remiſſion of Sins is only attain<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> through Faith in his Name and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d. That he that believes not ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> damned, yea, is condemned already. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat God ſhall judge all the World in
+<pb n="42" facs="tcp:40584:22"/>Righteouſneſs, by the Man Chriſt Je<g ref="char:EOLhyphen"/>ſus;<note place="margin">Rom. 2.16.</note> and that according to that very Go<g ref="char:EOLhyphen"/>ſpel which</hi> Paul <hi>preach'd.</hi>
+            </p>
+            <p>How is all this, by any other Principle but this Hypotheſis, recon<g ref="char:EOLhyphen"/>cileable to the Infinite Juſtice and Mercy of God's Nature; not only with reſpect to that numberleſs number of Infants, Franticks, and Ideots already mentioned; but alſo with reſpect to the many Millions of Souls of Men and Women, even whole Nations, for many Ages toge<g ref="char:EOLhyphen"/>ther, who have lived in the Body, and died, without ever having heard of the Man <hi>Chriſt Jeſus,</hi> or of that Law of the Goſpel; or of any Neceſſity of believing in his Name for the Remiſſion of their Sins, or that they ſhould for want of it be condemned to ſo terrible Dam<g ref="char:EOLhyphen"/>nation?</p>
+            <p>Shall we, to avoid the mani<g ref="char:EOLhyphen"/>feſt Injuſtice that there ſeems to be, in condemning Men for <hi>not believing in him, of whom they never heard,</hi>
+               <pb n="43" facs="tcp:40584:22"/>and for not conforming to a Law ne<g ref="char:EOLhyphen"/>ver promulgated in their Nation; Shall we, I ſay, to avoid this groſs Abſurdity, fall into another almoſt is bad, <hi>viz.</hi> give the Lie to this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain Doctrine of the Goſpel? Or, by Fetches of Wit, no where to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound in Scripture, ſeek to evade or elude it, and ſo (as ſome think, and call it) introduce a certain kind <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paganiſm, or Salvation without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y explicit knowledge of <hi>Chriſt</hi> cru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hed?</p>
+            <p>Or, is it not better, and more <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, to embrace this middle Way, in which the Juſtice of God is ſuffi<g ref="char:EOLhyphen"/>ciently cleared on the one hand, and the Doctrine of the Goſpel on the other hand preſerved, aſſerting, That every Man ſhall, at one time or other, live in one place or other, where <hi>Chriſt,</hi> and Remiſſion of Sins through Faith in his Name, ſhall be preach'd to them outwardly, as well as inwardly?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> The Scripture ſaith, <hi>That Chriſt, by his Death,</hi>
+               <note place="margin">Heb. 9.15.</note> 
+               <hi>became a Ranſom for the Sins
+<pb n="44" facs="tcp:40584:23"/>that were under the Firſt Teſtament, and that in that time of Ignorance God winked.</hi>
+               <note place="margin">Acts 17.30.</note>
+            </p>
+            <p>But how is this Scripture. Do<g ref="char:EOLhyphen"/>ctrine conſiſtent with the vulgar Opinion, which equally condemns the Sinners under the Firſt Teſtament to the ſame everlaſting and endleſſ Damnation, with the Sinners under the Second Covenant?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> The Scriptures (which <hi>Chriſt</hi> ſays cannot be broken) ſay moſt expreſly, <hi>That with what meaſure men do mete,</hi>
+               <note place="margin">Mat. 7.2.26.52. Rev. 13.10. Luke 6.38.</note> 
+               <hi>it ſhall be meaſured to them again. That he that kills with the Sword, ſhall with the Sword be killed; and, he that leads captive, ſhall be led captive.</hi>
+            </p>
+            <p>But, do we not ſee (ſaith he) Men daily die without receiving, in this Life, the ſame Meaſure they have meted to others; and that di<g ref="char:EOLhyphen"/>vers die on their Beds, at liberty, that have killed and enſlaved others?</p>
+            <p>How is then the common Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="45" facs="tcp:40584:23"/>true, That no Man lives more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an once upon the Earth; or how <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it conſiſtent with theſe Scriptures, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Doctrine is? For that, tho they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet not with the ſame Meaſure in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Life, they may hereafter, upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Earth, and have the Reward of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their other Sins, at laſt, to boot.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> The Scripture ſaith, in ſo many Words, <hi>That when we were Enemies,</hi>
+               <note place="margin">Rom. 5.10.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were reconciled to God, by the death <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Son on the Croſs.</hi>
+            </p>
+            <p>But how could we at that time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemies, if we had not then any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing at all, but did firſt begin to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſt above Sixteen hundred and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghty Years after?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> The Scripture ſaith,<note place="margin">Rom. 9.22.</note> 
+               <hi>That God en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>th with much long-ſuffering the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſels of Wrath fitted for deſtruction.</hi>
+            </p>
+            <p>But is it probable, that ten, twelve, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> twenty Years (at which Age we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many die in their Sins) is a time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much long-ſuffering with God,
+<pb n="46" facs="tcp:40584:24"/>with whom at thouſand Years is as one Day?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> The Scripture ſaith, <hi>That after Chriſt was put to death in the Fleſh,</hi>
+               <note place="margin">1 Pet. 9.20. 1 Pet. 3.18, 19, 20.</note> 
+               <hi>and quickned by the Spirit,</hi> [that is, was raiſed from the dead] <hi>he went by the Spirit and preached to the Spi<g ref="char:EOLhyphen"/>rits in Priſon, which once were diſobe<g ref="char:EOLhyphen"/>dient in the days of Noah.</hi>
+            </p>
+            <p>But how could this be, if thoſe very Souls, that lived and were Cap<g ref="char:EOLhyphen"/>tives of the Devil in the Days of <hi>Noah,</hi> were not then again living upon the Earth, in the ſame Capti<g ref="char:EOLhyphen"/>vity of the Devil, that <hi>Chriſt<g ref="char:punc">▪</g>
+               </hi> might go and preach to them by his Spirit in their own Hearts, and in the Mini<g ref="char:EOLhyphen"/>ſtry of the Apoſtles?</p>
+            <p>Or ſhall we, with the Papiſts, feign this Priſon to be ſome <hi>Limbo</hi> under the Earth, into which Chriſt deſcen<g ref="char:EOLhyphen"/>ded after his Death, but before his Quickning or Reſurrection, to preach to theſe Spirits?</p>
+            <pb n="47" facs="tcp:40584:24"/>
+            <p>Contrary to the expreſs Doctrine of the Scriptures, which never ſpeak of any Plate but this Earth, in which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en can be converted; and to the expreſs Words of the Text it ſelf, which ſaith, That <hi>it was after he was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to death in the Fleſh, and quickned if the Spirit.</hi>
+            </p>
+            <p>Or ſhall we, with the Proteſtants <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> general, aſſert this preaching to them, to have been only in the Days if <hi>Noah,</hi> and by his Miniſtry alone, contrary to the Text it ſelf, as above <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerved?</p>
+            <p>Or, confeſſing that Preaching <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is after the Reſurrection, becauſe it ſeems evident from the Text, ſhall we, by another Fetch of the <hi>Socini<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> contradict the Apoſtle another way, <hi>viz.</hi> by denying that they were the very ſame Spirits to which <hi>Chriſt</hi> then preached, which lived and were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſobedient in the days of <hi>Noah,</hi> and that they were onely Men and Women guilty of the ſame Sins?</p>
+            <pb n="48" facs="tcp:40584:25"/>
+            <p>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is it not beſt, (now a way is found out how it can be) to take the Apoſtle's Words as they lie, without any Fetch or Quirk of Wit forreign to the Text?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> The Scripture ſaith in plain Terms, <hi>That upon that Generation,</hi>
+               <note place="margin">Matth. 23.31.</note> 
+               <hi>which ſlew the Son of God, ſhould come all the righteous Blood ſhed from the Blood of the righteous</hi> Abel, <hi>to the Blood of</hi> Za<g ref="char:EOLhyphen"/>charias: Which is about Forty Ge<g ref="char:EOLhyphen"/>nerations.</p>
+            <p>But if this Doctrine, by which that very Generation may have lived formerly, (as <hi>Chriſt</hi> ſays they did) in the days of <hi>Zacharias,</hi> and of the Prophets, and did ſlay them, be re<g ref="char:EOLhyphen"/>jected, and the Vulgar Doctrine maintain'd, and it be ſaid, that all this Blood ſhould come upon them for their Parents and their own Sins, being found in the Foot-ſteps of their Parents; and that they never lived before; pray tell me how this De<g ref="char:EOLhyphen"/>nuntiation of <hi>Chriſt,</hi> is conſiſtent ei<g ref="char:EOLhyphen"/>ther
+<pb n="49" facs="tcp:40584:25"/>with the Doctrine of the Law, or of the Goſpel? Seeing: that even under the Law it ſelf, God never threatens to <hi>viſit the Iniquities of the Parents upon the Children beyond the third or fourth Generation,</hi>
+               <note place="margin">Exod. 20.5.</note> 
+               <hi>even of them that hate him?</hi>
+            </p>
+            <p>And that <hi>Ezechiel</hi> propheſied, that in the days of the Goſpel, even that ſhould alſo ceaſe, and that <hi>the Child ſhould not bear the Iniquity of the Father; but the Soul alone that ſianed,</hi>
+               <note place="margin">Ezek. 18.2.</note> 
+               <hi>that alone ſhould die.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/> Again, The Scripture ſays plainly, That <hi>that Generation,</hi>
+               <note place="margin">Mat. 23.39.</note> that then ſlew him, <hi>ſhould yet believe in him, and ſay unto him, Bleſſed is he that cometh in the Name of the Lord.</hi>
+            </p>
+            <p>Now, is it probable that they were, or could be, at that time converted, after Chriſt had pronounc'd ſuch Woes againſt them, and told them, <hi>That they could not eſcape the damnation of Hell;</hi>
+               <note place="margin">Matth. 23.33, 35, 37, 38.</note> 
+               <hi>that they had filled up the mea<g ref="char:EOLhyphen"/>ſure of their Fathers Iniquities; that
+<pb n="50" facs="tcp:40584:26"/>they would not be gathered;</hi>
+               <note place="margin">Luke 19.42.13.15.</note> 
+               <hi>that the things that belonged to their Pea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e were then bid from their eyes; and that their Houſe was</hi> (for that time) <hi>left them deſolate?</hi>
+            </p>
+            <p>Muſt they not then yet once more, after that time, live again upon Earth, if they ſhould ever <hi>ſee him</hi> (whom they had pierced) <hi>and pronounce him Bleſſed, as coming in the Name of his Father?</hi> As he there ſaith they ſhall, <hi>ver.</hi> 39.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XI"/> The Scripture ſaith moſt expreſly,<note place="margin">Rom. 11.16, 26.</note> That <hi>after the fulneſs of the Gentiles ſhall come in. All Iſrael ſhall be ſa<g ref="char:EOLhyphen"/>ved; That the whole Maſs, as well as the Firſt-fruits, the Branches as well as the Roots, are holy.</hi>
+            </p>
+            <p>Now there is nothing more clear from Scripture; than that, at that time, ſuch <hi>blindneſs</hi> had hapned to <hi>Iſrael,</hi>
+               <note place="margin">Rom. 9.2.</note> 
+               <hi>that but very few, but a rem<g ref="char:EOLhyphen"/>nant of them were ſaved.</hi>
+            </p>
+            <p>Muſt they not then live once more
+<pb n="51" facs="tcp:40584:26"/>on Earth, that they might believe and be ſaved, if all <hi>Iſrael</hi> ſhall he ſa<g ref="char:EOLhyphen"/>ved? Or where do we read of wic<g ref="char:EOLhyphen"/>ked Mens being converted in the Grave?</p>
+            <p>Theſe and ſuch like are, <hi>Sir,</hi> the Reaſonings of this Author; upon which he thinks himſelf as certain of his Chief Doctrine, <hi>That the Souls of Men do ordinarily live more than once upon this Earth,</hi> as any Sect of Chri<g ref="char:EOLhyphen"/>ſtians are, or can be from the Scrip<g ref="char:EOLhyphen"/>ture, of any Opinion in Theology, that is in Controverſie among them.</p>
+            <p>Of all which, whether true or falſe, I ſhall forbear as yet to determine, till I hear what Men of more mature and ſolid Judgment, Piety, and Learn<g ref="char:EOLhyphen"/>ing, ſhall ſay to it, and what the Author hath to reply; as when he muſt deſcend from the State of a Que<g ref="char:EOLhyphen"/>rer, and take upon him that of an Aſſerter and Defender, and perhaps of an Informer of his miſtaken Ad<g ref="char:EOLhyphen"/>verſary; which a Man may eaſily be, if he take not good heed; and from
+<pb n="52" facs="tcp:40584:27"/>which I dare not pronounce my ſelf ſo altogether free, as I am ſure I am from intending to miſrepreſent him.</p>
+            <p>But this, I think, I may ſay, That, if it be an Error, it ſeems to me to be an Error that has been received by Perſons of as much Probity, Piety, and Prudence, as perhaps greater are not to be found in the generality of the moſt refined Profeſſors of Chri<g ref="char:EOLhyphen"/>ſtianity of this Age, which yet I grant far to exceed that of many Ages laſt paſt.</p>
+            <p>For <hi>Pythagoras</hi> and <hi>Plato</hi> before <hi>Chriſt, Plotine, Pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus,</hi> and the beſt of the Heathen Philoſophers ſince <hi>Chriſt,</hi> and the Diſciples of <hi>Chriſt</hi> when he was upon Earth, did believe it to be a Truth.</p>
+            <p>And nothing is more plain than this, that if <hi>Chriſt</hi> did not approve it, he did at leaſt bear with it in his Diſciples: And one would think it might, without incurring his diſplea<g ref="char:EOLhyphen"/>ſure, be as well born with now.</p>
+            <pb n="53" facs="tcp:40584:27"/>
+            <p>For altho' ſome Men, of very ſharp and penetrant Judgments, may poſ<g ref="char:EOLhyphen"/>ſibly diſcover here and there ſome Weakneſs, in ſome or other part of the Fabrick; yet the Author, for his Good-will to Chriſtianity, for his Love to God and his Neighbour, di<g ref="char:EOLhyphen"/>ſcovered by putting himſelf to the pains of thinking out this Syſtem, to the clearing of the Divine Attributes of God's Juſtice, Mercy, and Wiſ<g ref="char:EOLhyphen"/>dom, and rendring the moſt perplext Articles of the Chriſtian Religion ſo plain to the very meaneſt, as well as to the largeſt Capacity, that no A<g ref="char:EOLhyphen"/>theiſt can rationally oppoſe them, deſerves, I ſhould think, to be treat<g ref="char:EOLhyphen"/>ed with all Humanity and Chriſtian Candour by the People of our Nati<g ref="char:EOLhyphen"/>on, whom he honoured with the firſt Propoſitions of this Nature.</p>
+            <p>And not, for every little Error or Miſtake, be rudely run upon, unman<g ref="char:EOLhyphen"/>nerly and unmanlike traduced with thoſe vile Names of <hi>Papiſt, Jeſuit, Atheiſt,</hi> and what not. A thing too common with many of the Profeſſors of our Nation.</p>
+            <pb n="54" facs="tcp:40584:28"/>
+            <p>For which of us is, or pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches to be, free from all Miſtakes or Errors in Judgment? And which of us would be willing to be ſo treated, for offering his Thoughts to the Con<g ref="char:EOLhyphen"/>ſideration of Men, in the moſt modeſt way poſſible?</p>
+            <p>I ſuppoſe there are no Sort or Sect of Chriſtians that do think that any part or Scripture dropt by chance (as Men call it) from the Pens of the Holy Men, tho' there might be more ſometimes in the manner of Expreſ<g ref="char:EOLhyphen"/>ſion, perhaps, than the very Penmen themſelves did then apprehend, which might be reſerved to be far<g ref="char:EOLhyphen"/>ther opened in future Ages, accord<g ref="char:EOLhyphen"/>ing to the Counſel of God's Wiſdom, in whoſe Hands the Times and Sea<g ref="char:EOLhyphen"/>ſons are.</p>
+            <p>Nor do I at all doubt, but it will be readily granted by the moſt ſober of all Parties, but there have been Truths ſo couched in Scriptuee, that they have for many Ages not been ſo
+<pb n="55" facs="tcp:40584:28"/>clearly and generally underſtood, even by ſerious, heedful, and pious (whe<g ref="char:EOLhyphen"/>ther learned or not learned) Readers, as they have been in after-Ages; when the appointed time, in the Pro<g ref="char:EOLhyphen"/>vidence of God, for the more clear opening and general ſpreading of them, has come.</p>
+            <p>Nor do I believe that any Man will deny, but that there may be ſome ſuch, and very probably are ſo, which are reſerved for the latter Ages of the World more eſpecially; ſeeing the. Scripture ſpeaketh of them, as of Times in which <hi>Know<g ref="char:EOLhyphen"/>ledge ſhould more generaly abound;</hi> and <hi>Chriſt</hi> ſaith, That <hi>there is nothing bidden which ſhall not be revealed.</hi>
+            </p>
+            <p>I doubt as little, that all will confeſs, that there are deep Myſte<g ref="char:EOLhyphen"/>ries in Scripture, which, tho' not equally neceſſary to be known, and believed by every Chriſtian, upon pain of loſing all Fellowſhip and Communion with <hi>Chriſt,</hi> are yet, to thoſe, that ſhall ſee them in true
+<pb n="56" facs="tcp:40584:29"/>Light, and receive them in pure Love, of great advantage to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onfirm their Faith, and increaſe their Love to God and their Neighbour; which as <hi>Chriſt</hi> ſaith, is the Law and the Prophets.</p>
+            <p>Nor do I think that there is any one Man, in any one Sect, whatſoe<g ref="char:EOLhyphen"/>ver, <hi>that hath that overweening Con<g ref="char:EOLhyphen"/>ceit of his Attainments, and Pro<g ref="char:EOLhyphen"/>ficiency in Scripture-knowledge,</hi> as to imagine that he knows, not only all things neceſſary, but even all the moſt deep Myſteries and Truths, Na<g ref="char:EOLhyphen"/>tural and Divine, contained in the Scriptures, that are knowable by the Illuminations of God's Spirit, which at any time ever have been, now are, or ever can be, of any true advan<g ref="char:EOLhyphen"/>tage to any one Soul.</p>
+            <p>But it may be you may ask, to what purpoſe I ſay this, which no prudent Man will contradict?</p>
+            <p>Truly, to no other purpoſe at all, but to put Men in mind, that every
+<pb n="57" facs="tcp:40584:29"/>thing is not an Error that they (nor their Forefathers before) did not ſee: Nor that all is Truth that they have taken for ſuch.</p>
+            <p>That, on the one hand, every Er<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> merits not to ſubject thoſe that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ieve it to an <hi>Anathema Maranath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Nor every Truth of that concern, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it merits a particular Altar to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e erected to it, or that a new Fra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion or Sect be made among Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ians for it, if Men could but once <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to be wiſe and conſiderate.</p>
+            <p>I would, from my heart, that I could move all Men to that Modera<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and Tenderneſs towards each <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers Principles, Perſons, and Repu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions, as not to be ſo cenſorious, as they are, till they are ſufficiently ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sfied in themſelves, and at leaſt in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me meaſure capable to evince to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers, that they are ſo ſatisfied, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Principles which they do impugn <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d condemn, have ſome tendency, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not to ſubvert the Chriſtian Faith
+<pb n="58" facs="tcp:40584:30"/>in whole or in part, at leaſt to wea<g ref="char:EOLhyphen"/>ken it, (as ſome think that the Do<g ref="char:EOLhyphen"/>ctrine of the Salvation of the <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> that never hear of <hi>Chriſt,</hi> doth) or, that they do, on the other hand, tend to the propagation of Looſneſs, and hindring of a Godly Life, as Peo<g ref="char:EOLhyphen"/>ple of divers Perſuaſions do judg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Doctrine of Election and Repro<g ref="char:EOLhyphen"/>bation, as it is maintain'd by ſome Men, naturally to do.</p>
+            <p>In both which Parties we yet can<g ref="char:EOLhyphen"/>not doubt, but that there are very ſerious Chriſtians, that hate the thoughts of reducing <hi>Chriſtianity</hi> to <hi>Paganiſm,</hi> on the one Hand; and on the other, that deteſt any thing that leads to Profaneneſs.</p>
+            <p>The next thing I would I could perſuade all Men to, is, That when they think themſelves obliged and qualified to proceed to cenſure any thing in. any Man, they would take care to proceed with that evenneſs of Ten per and Spirit, as to endea<g ref="char:EOLhyphen"/>vour more in Live to detect the Er<g ref="char:EOLhyphen"/>ror
+<pb n="59" facs="tcp:40584:30"/>to the Perſons engaged and en<g ref="char:EOLhyphen"/>tangled <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it, in order to the better informing and reforming of their Judgments, than (as great Doctors of the Chair) <hi>pro authoritate,</hi> to con<g ref="char:EOLhyphen"/>demn them, without ever vouch<g ref="char:EOLhyphen"/>laſing to enter into any arguing the baſe with them. A way ſo diſinge<g ref="char:EOLhyphen"/>nuous, that certainly it cannot pre<g ref="char:EOLhyphen"/>vail in the leaſt degree, with a free Mind, which as it is moſt eaſily led by the Powers of Light or Love, ſo it is as immovable as a Rock by any the Thunderbolts which weak and empty Heads can utter againſt them. Tools, only adapted to the State of enſlaved Minds! F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuppoſe this Man, and others, do think that they ſee more than moſt Men, from <hi>Pſal.</hi> 90. <hi>ver.</hi> 4. and do apprehend, that from thoſe Proportions is deducible the whole Chronology of the Scripture, be<g ref="char:EOLhyphen"/>ing confirmed in it by ſeveral Exam<g ref="char:EOLhyphen"/>ples alledged in the <hi>Queries,</hi> and that the Doctrine of the Revolutions is ſufficiently intimated to be juſt Twelve, and no more nor leſs, being compar'd with other Scriptures:
+<pb n="60" facs="tcp:40584:31"/>Muſt they for this (admitting it to be a Miſtake) become the Objects of Eccleſiaſtical Fury? or be delivered over to Satan, as Men given up to a Reprobate mind? Or ſhall they, on the other hand, if it be a Truth, therefore be authorized to ſeparate themſelves from their Brethren the may be willing to bear with them, tho' they judge it an Error. God forbid, that either of theſe things ſhould come to paſs; and grant, on the other hand, that through an amicable diſcuſſion of things, if this Hypotheſis will not fully do it, ſome other, that may go farther, may be found; that ſo that bright Light of Truth (by the agi<g ref="char:EOLhyphen"/>tation of the various Meaſures in which Men do ſtand) may clearly ſhine forth, of which that Prophecy ſpeaks which honeſt <hi>George Withers</hi> publiſh'd in his <hi>Britain's Genius,</hi> above Forty Years ago (reprinted by <hi>Richard Janeway,</hi> 1681. <hi>pag.</hi> 51. of a Trea<g ref="char:EOLhyphen"/>tiſe called <hi>Multum in Parvo</hi>) where, the Confuſions of the late evil and boiſterous Times, and (as the Mar<g ref="char:EOLhyphen"/>gin
+<pb n="61" facs="tcp:40584:31"/>tells us) the Reſtauration of his Majeſty being foretold, theſe Lines do immediately follow.</p>
+            <lg>
+               <l>Then ſhall Righteouſneſs aſcend the Throne;</l>
+               <l>Then Love, and Truth, and Peace re<g ref="char:EOLhyphen"/>enter ſhall;</l>
+               <l>Then Faith and Reaſon ſhall agree in one,</l>
+               <l>And all the Virtues to their Council call.</l>
+            </lg>
+            <p>For tho' Men, by their ſhallow and narrow reaſonleſs Conceits, and ſtiff adhering each to their own Sect, Separation, Diviſon, or Church, (imagining themſelves to have hit the Mark, and gotten to the Hercu<g ref="char:EOLhyphen"/>lean Pillars, beyond which they think there is no going) cannot, being preſt, ſatisfactorily either to themſelves, or to others, reconcile any one of their Syſtems or Confeſſions of Faith to Reaſon or Scripture, by a clear Solu<g ref="char:EOLhyphen"/>tion of all the Difficulties with which every one of their particular Ways may be juſtly charged; Yet, ſeeing
+<pb n="62" facs="tcp:40584:32"/>it is, with me, a Truth paſt all doubt, That all Truth doth p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceed from the ſame Divine Root and Fountain, from which <hi>Right Reaſon</hi> doth proceed, that is, even from <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> who is the Truth it ſelf, <hi>the True Light, which,</hi> at one time or other, <hi>doth enlighten every man, I ſay, every man that comes into the world;</hi> I ſee no reaſon why, as the little Crafts of Men, and that ridi<g ref="char:EOLhyphen"/>culous empty Thing called Authori<g ref="char:EOLhyphen"/>ty, <hi>(without Light and Conviction)</hi> comes to be worn out of Mens Minds, and they come to mind what's pro<g ref="char:EOLhyphen"/>pounded to them to be believed, e're they receive it; and not to receive any thing, but upon a ſound and previous Examination, by that Light of Truth which God in <hi>Chriſt</hi> has imparted to them: I ſee, I ſay, no Reaſon why we may not hope to ſee this fulfilled, ſo far as the Mind of Man is capable of it, provided we be but as ready to give up our ſelves to obey what we have or ſhall come to diſcover to be the Will of the Fa<g ref="char:EOLhyphen"/>ther, as we are greedy of knowing
+<pb n="63" facs="tcp:40584:32"/>if. And that this is a neceſſary Re<g ref="char:EOLhyphen"/>quiſite, <hi>Chriſt</hi> himſelf hath teſtified, ſaying, <hi>He that will do the will of my Father, ſhall know of my Doctrine:</hi> Nor is there any other lawful way of ſtriving.</p>
+            <p>And thus, having treſpaſſed, up<g ref="char:EOLhyphen"/>on your Patience too far, I crave leave to ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Dear Sir,</hi> Yours in all Offices of Love, <hi>N. N. Philanthropos.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
